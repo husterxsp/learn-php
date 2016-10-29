@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+*.tpl.php
+data/template_c/*
+data/cache/*
